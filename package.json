@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.17.9",
-    "@matrix-org/react-sdk-module-api": "^1.0.0",
+    "@matrix-org/react-sdk-module-api": "file:/dev/src/element/matrix-react-sdk-module-api",
     "string-template": "^1.0.0"
   }
 }
